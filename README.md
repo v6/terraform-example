@@ -2,7 +2,7 @@ Refer to https://github.com/terraform-providers for more providers/plugins
 
 To enable Debug
 $env:TF_LOG = "DEBUG"
-$env:TF_LOG_PATH = "C:/Repositories/terraform/terraform-eo/terraform.log"
+$env:TF_LOG_PATH = "C:/Repositories/terraform.log"
 
 Start with the 0-Setup to configure client environment
 terraform get -update
